@@ -1,4 +1,4 @@
-(Aclaración: Esto es una copia del Readme.md que va en el repositorio ofcial del proyecto y no ha podido compartirse)
+(Aclaración: Esto es una copia del Readme.md que va en el repositorio oficial del proyecto y no ha podido compartirse)
 
 # 💼 Rastreador de Empleo | Factoría F5
 [![CircleCI](https://circleci.com/gh/impress/impress.js.svg?style=svg)](https://circleci.com/gh/impress/impress.js)
